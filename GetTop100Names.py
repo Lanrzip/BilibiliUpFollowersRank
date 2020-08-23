@@ -1,3 +1,8 @@
+"""
+此代码用于从火烧云数据爬取
+排名前100(当时)的UP主名称
+"""
+
 import time
 from lxml import etree
 from selenium import webdriver

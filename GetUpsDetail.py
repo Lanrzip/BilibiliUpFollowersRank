@@ -1,3 +1,7 @@
+"""
+此代码利用UID访问up主粉丝数api并爬取数据
+"""
+
 import requests
 import json
 import re

@@ -1,3 +1,7 @@
+"""
+此代码利用爬取的名称获得与之对应的UID
+"""
+
 import requests
 import re
 import json
